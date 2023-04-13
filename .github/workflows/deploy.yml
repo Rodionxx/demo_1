@@ -1,0 +1,13 @@
+name: Deploy Application
+on: push
+jobs:
+  runs-on: ubuntu-latest
+  steps:
+    - name: Get repository code
+      uses: actions/checkout@v3
+    - name: Install dependecies
+      run: npm install
+    - name: Start Application
+      run: npm start
+    - name: Print files
+      run: ls -la
