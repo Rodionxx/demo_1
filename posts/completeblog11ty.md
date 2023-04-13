@@ -29,8 +29,8 @@ Congratulations you have successfully run your eleventy 11ty complete blog on yo
 
 For simple and fast work you can deploy on [vercel](https://vercel.com), firebase, netlify just register and create account, then you can visit our repo on github fork it, and now back to vercel / netlify dashboard - create new project - select github repo and deploy it.
 
-[Download and Documentation  →](https://www.hockeycomputindo.com/2022/03/eleventy-bootstrap-web-template-seo.html)
+[Download and Documentation  →](https://github.com/Rodionxx/Webdriver_selectors)
 
 And yeah... we have service for help you built website and simple blog with eleventy, click on button.
 
-<a href="https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll" class="btn btn-dark black text-white">Built Static Site Generator Now</a>
+<a href="https://github.com/Rodionxx/Webdriver_selectors" class="btn btn-dark black text-white">Built Static Site Generator Now</a>

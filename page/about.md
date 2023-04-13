@@ -9,24 +9,21 @@ eleventyNavigation:
   order: 3
 ---
 
-This project is develope by creativitas you can hire our team for develope your website if your needed [Hire Now →](https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll)
 
-or you can visit on [https://eleventy.web.app](https://eleventy.web.app)
-
-### About 11ty Shop 
+### About 11ty Shop
 
 Free and open source code starter template for built modern online shop and e-commerce site with [eleventy 11ty](https://11ty.dev) a blast fast static site generator integration with ecwid for make easy to transaction using your payment gateway system. a clean template with [bootstrap](https://getbootstrap.com) css injection.
 
 With this source code project you can easy and fast built online shop or e-commerce site using 11ty markdown.
 
-### Installation 
+### Installation
 
-How to install ?? 
+How to install ??
 + download and install [node js →](https://nodejs.org/en/download/)
 + for use eleventy version 1 you can run `npm install`
 + for eleventy version 2 canary run `npm update`
 + then you can run `npm start`
-+ [read documentation detail →](https://www.hockeycomputindo.com/2022/11/built-online-shop-website-with-static.html)
++ [read documentation detail →](https://github.com/Rodionxx/Webdriver_selectors)
 
 ### Scheme Folder Stucture
 + posts folder for blog article
@@ -55,10 +52,7 @@ How to install ??
 + tags: insert your tag in here.
 
 
-[read documentation detail →](https://www.hockeycomputindo.com/2022/11/built-online-shop-website-with-static.html)
-
-
-[Buy me a coffee →](https://app.midtrans.com/payment-links/1647457988722) or [Hire Me →](https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll)
+[read documentation detail →](https://github.com/Rodionxx/Webdriver_selectors)
 
 
 
