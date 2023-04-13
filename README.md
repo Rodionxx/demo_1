@@ -12,8 +12,6 @@ Demo standard : [https://11tyshop.pages.dev →](https://11tyshop.pages.dev/)
 
 Demo with image shop : [https://tokokasir.vercel.app →](https://tokokasir.vercel.app)
 
-Demo custom shop : [https://mesinkasironline.vercel.app →](https://mesinkasironline.vercel.app)
-
 Video: [https://youtu.be/LdUJlBhakVk](https://youtu.be/LdUJlBhakVk)
 
 Documentation : [https://www.hockeycomputindo.com/2022/11/built-online-shop-website-with-static.html →](https://www.hockeycomputindo.com/2022/11/built-online-shop-website-with-static.html)
@@ -40,8 +38,6 @@ Design UI
 Demo standard : [https://11tyshop.pages.dev →](https://11tyshop.pages.dev/)
 
 Demo with image shop : [https://tokokasir.vercel.app →](https://tokokasir.vercel.app)
-
-Demo custom shop : [https://mesinkasironline.vercel.app →](https://mesinkasironline.vercel.app)
 
 Documentation : [https://www.hockeycomputindo.com/2022/11/built-online-shop-website-with-static.html →](https://www.hockeycomputindo.com/2022/11/built-online-shop-website-with-static.html)
 

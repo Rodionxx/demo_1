@@ -18,10 +18,5 @@
   "jsonfeed": {
     "path": "/feed/feed.json",
     "url": "https://example.com/feed/feed.json"
-  },
-  "author": {
-    "name": "creativitas",
-    "email": "creativebydre@gmail.com",
-    "url": "https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll"
   }
 }

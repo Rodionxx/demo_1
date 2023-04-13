@@ -11,15 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mesinkasir/11ty-shop.git"
-  },
-  "author": {
-    "name": "creativitas",
-    "email": "creativebydre@gmail.com",
-    "url": "https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll/"
+    "url": "https://github.com/Rodionxx/Webdriver_selectors.git"
   },
   "license": "MIT",
-  "homepage": "https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.0-canary.14",
     "@11ty/eleventy-navigation": "^0.3.3",
