@@ -16,6 +16,7 @@ jobs:
         run: ls -la
       - name: Install aws cli
         uses: chrislennon/action-aws-cli@v1.1
+      - name: Auth aws
         run: aws s3 ls
           env:
             AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
