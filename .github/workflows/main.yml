@@ -20,3 +20,5 @@ jobs:
           aws-region: us-west-1
       - name: Deploy files to aws
         run: aws s3 sync ./_site s3://banar.click/
+      - name: Invalidate cloudfront cash
+        run: aws cloudfront create-invalidation --distribution-id E2NLUFUVKTDLQK --paths '/*'
