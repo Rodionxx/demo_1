@@ -12,8 +12,6 @@ jobs:
         run: npm install @11ty/eleventy -g
       - name: Build Application
         run: npx @11ty/eleventy
-      - name: Print files
-        run: ls -la
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v2
         with:
