@@ -11,6 +11,14 @@ jobs:
       - name: Install eleventy static generator
         run: npm install @11ty/eleventy -g
       - name: Build Application
-        run: eleventy --pathprefix="/eleventy-base-blog/"
+        run: npx @11ty/eleventy
       - name: Print files
         run: ls -la
+      - name: Download aws cli
+        run: curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+      - name: Unzip aws cli
+        run: unzip awscliv2.zip
+      - name: Install aws cli
+        run: sudo ./aws/install
+      - name: Check version
+        run: aws --version
