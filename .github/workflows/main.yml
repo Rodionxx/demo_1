@@ -16,8 +16,8 @@ jobs:
         run: ls -la
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v2
-          with:
-            AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-            AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        with:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       - name: Deploy files to aws
         run: aws s3 sync ./_site s3://banar.click/
